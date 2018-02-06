@@ -1,6 +1,6 @@
 {
   "name": "async-hook-chains",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/gobinaris/async-hook-chains.git"
   },
   "author": "Binaris",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gobinaris/async-hook-chains/issues"
   },
